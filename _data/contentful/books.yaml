@@ -1,0 +1,26 @@
+---
+book:
+- sys:
+    id: 6bAHfY4LlYA2uoqGSOGuGm
+  title: Pale Fire
+  authorSurname: Nabokov
+  summary: A curate's egg, a mystery, a beautiful examination of madness, creativity
+    and fantasy.
+- sys:
+    id: 7lLBrsiBmEUUiUEwEoGAyK
+  title: 'For Esme: With Love and Squalor'
+  authorSurname: Salinger
+  summary: |+
+    A mournful tale of insanity and redemption.
+
+    ![For Esme with Love and Squalor](//images.contentful.com/e6nzfmq9k5jt/4b6tWOXeFOUsAe8CkKcUCO/dfe6bc80012d0c79094faf83e50d5bf7/es.jpg)
+
+
+- sys:
+    id: 4tsYwUrSRO8iuO484CCMw
+  title: The Rings of Saturn
+  authorSurname: Sebald
+  summary: A mournful journey through memory and the East Anglian coast.
+  picture:
+    title: Rings of Saturn
+    url: //images.contentful.com/e6nzfmq9k5jt/1x3mB9fEgAUK0a0UCuSay8/179e734e8616e6e0952c2dd9205805f6/sebald-rings-of-saturn-dunwich.jpeg

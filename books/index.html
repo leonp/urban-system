@@ -1,0 +1,14 @@
+---
+layout: default
+title: Books
+---
+
+<ul>
+
+{% for book in site.data.contentful.books.book %}
+
+  <li>{{ book.title }}, by {{ book.authorSurname }}<br>{{ book.summary | markdownify }}{% if book.picture %}<img src="{{ book.picture.url }}">{% endif %}</li>
+
+{% endfor %}
+
+</ul>
